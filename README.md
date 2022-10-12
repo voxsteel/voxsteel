@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-### My name is Viorel (he/him) and I'm working as a Premium Support Engineer at GitHub.
+## My name is Viorel (he/him) and I'm working as a Premium Support Engineer at GitHub.<br>
 
 
 
-🏠 Hungarian 🇭🇺 based in Stockholm, Sweden 🇸🇪
-🌱 I’m currently learning more about GitHub Enterprise products.
-😄 I like playing squash 🎾, snowboarding 🏂 and playing video games 🎮
-📫 Hit me up on LinkedIn if you'd like to connect
-💬 Talk to me about git, Linux, AWS 💻, football ⚽, or Formula 1 🏎
-⚡ Fun fact: I collect PEZ dispensers 🍬 and music festival wristbands 🎵
+🏠 Romanian 🇷🇴 based in UK 🇬🇧 <br>
+🌱 I’m currently learning more about GitHub Enterprise products.<br>
+😄 I like playing with my  👧👧 ,  fishing 🎣 and photography 📸<br>
+📫 Hit me up on <a href="https://www.linkedin.com/in/viorel-rudareanu-4639b08/ target="_blank">LinkedIn</a> if you'd like to connect<br>
+💬 Talk to me about ... anything<br>
